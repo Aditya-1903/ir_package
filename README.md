@@ -1,6 +1,6 @@
 #### 20XD96: Information Retrieval and Web Search Lab  
 
-Team:
+Team:  
 20PD02 - Aditya  
 20PD11 - Kartheepan  
 20PD13 - Kesavan
